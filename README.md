@@ -6,7 +6,7 @@ After a highly successful cohort in 2017, the Civic Digital Fellowship returned 
 This repository features the slides our fellows presented at their end of summer Demo Day, held Thursday August 9, 2018 at the Partnership for Public Service headquarters.
 
 ### Demos and Presentations:
-1. **Text Analytics for Cusomer Feedback Pipeline** — Mayuka Sarukkai
+1. **[Text Analytics for Cusomer Feedback Pipeline](https://github.com/codingitforward/cdfdemoday2018/blob/master/Text%20Analytics%20for%20Cusomer%20Feedback%20Pipeline.pdf)** — Mayuka Sarukkai
 
 Mayuka worked with the Communications Directorate at Census to develop the internal analytics capacity for user feedback collected on Census.gov's 1.7+ million pages. This project provides intranet coordinators and program area stakeholders with a central analytics platform to better understand their users' experiences and systematically inform user-centered improvements to the Census.gov experience. To that end, she led user research with stakeholders across the Bureau, developed machine learning and natural language processing scripts to process open text feedback, and built an interactive Tableau dashboard to visualize feedback analytics.
 
@@ -32,15 +32,15 @@ Liam made web strategy recommendations to the ITA. This included extensive inter
 
 Michelle designed a more user-friendly and user- centric Census Central intranet website, which is used by over 150,000 Census employees each month.
 
-4. **Restructuring _Health, United States_ & Analyzing Opioid Deaths** — Amy Fan
+4. **[Restructuring _Health, United States_ & Analyzing Opioid Deaths](https://github.com/codingitforward/cdfdemoday2018/blob/master/Restructuring%20Health%2C%20United%20States%20%26%20Analyzing%20Opioid%20Deaths.pdf)** — Amy Fan
 
 At the National Center for Health Statistics this summer, Amy worked on two projects. The first involved restructuring data in a (currently printed) report called _Health, United States_ to be more visual and interactive in a digital format. The second involved analyzing linked hospital and death certificate data to better understand the relationship between hospitalizations and opioid deaths.
 
-5. **Dashboard and Mapping Tool: Demonstrating HRSA's Efforts to Combat the Opioid Epidemic** — Ronnie Fesco Jr.
+5. **[Dashboard and Mapping Tool: Demonstrating HRSA's Efforts to Combat the Opioid Epidemic](https://github.com/codingitforward/cdfdemoday2018/blob/master/Dashboard%20and%20Mapping%20Tool-%20Demonstrating%20HRSA's%20Efforts%20to%20Combat%20the%20Opioid%20Epidemic.pdf)** — Ronnie Fesco Jr.
 
 Ronnie demonstrated the Health Resources and Services Administration's (HRSA) impact on the opioid epidemic through the use of an interactive dashboard with maps of the United States. He first gathered all data relevant to HRSA's opioid investments and to the opioid epidemic itself. He then plotted this data in Tableau to create a dashboard that lets the user toggle by year as well as reveal HRSA's reaction to changes in the opioid epidemic.
 
-6. **Optimizing the Commodity Flow Survey, v2** — Christian Moscardi
+6. **[Optimizing the Commodity Flow Survey, v2](https://github.com/codingitforward/cdfdemoday2018/blob/master/Optimizing%20the%20Commodity%20Flow%20Survey%2C%20v2.pdf)** — Christian Moscardi
 
 Survey respondents to the Commodity Flow Survey, administered jointly every five years by the Census Bureau and Bureau of Transportation Statistics, have a notoriously difficult time providing responses to one specific question; responses are time-intensive and often inaccurate. Using machine learning techniques, Christian trained models to predict that specific response (a five-digit classification code) using other data in the response. 
 
@@ -56,7 +56,7 @@ Michal used machine learning to automatically reduce the number of partial match
 
 Kristy, Jack, and Gianna worked on improving the transfer process for foreign service officers by creating a centralized information portal. They conducted interviews and usability tests with diplomats and developed three iterations of the prototype. They also created documentation for the project and issued recommendations for the State Department.
 
-9. **Census Open Innovation Labs** - Genesia Ting, Emily Fong
+9. **[Census Open Innovation Labs](https://github.com/codingitforward/cdfdemoday2018/blob/master/Census%20Open%20Innovation%20Labs.pdf)** - Genesia Ting, Emily Fong
 
 Genesia worked on designing for the Opportunity Project under the Census Open Innovation Labs. This summer, she spearheaded all aspects of design for sprint materials, websites, and branding. She also conducted user research with Emily Fong to maximize engagement between public communities and The Opportunity Project, and facilitated user advocacy within sprint cohorts.
 
@@ -72,13 +72,13 @@ Visakh worked to better the access, quality, and responsible use of data across 
 
 Andrew worked on a visualization tool for data from the American Community Survey. The web application is set up similarly to a dashboard and allows users to analyze the data in a variety of ways. The goal is to build a solution that facilitates the exploration of publicly available Census data and is approachable for users regardless of technical background.
 
-10. **FOIA Request Prototyping** — Loren Hinkson, Maddy Kulke
+10. **[FOIA Request Prototyping](https://github.com/codingitforward/cdfdemoday2018/blob/master/FOIA%20Request%20Prototyping.pdf)** — Loren Hinkson, Maddy Kulke
 
 Loren supported the Continuous Improvement and Strategic Planning team within the Centers for Medicare and Medicaid Services. She worked to add error-checking steps to the Medicare FOIA request process and develop a web prototype of an instruction and submission flow to make records more easily accessible to beneficiaries and their representatives. She also utilized machine learning techniques to parse and categorize internal employee feedback, and assisted the HHS Ignite team with contextualizing their contacts for more effective communications.
 
 At the Centers for Medicare & Medicaid Services (CMS), Maddy designed and prototyped a web-based CMS FOIA (Freedom of Information Act) request system to reduce the number of rejected forms and improve the user experience. Maddy also analyzed and built visualizations of data for the CISP (Continuous Improvement and Strategic Planning) team. Maddy worked to improve the user interface of CMS's public datasets to promote collaboration in visualizing, mapping and analyzing health data across the United States.
 
-10. **GI Bill School Feedback Tool** — Mariam Mayanja, R Matthews
+10. **[GI Bill School Feedback Tool](https://github.com/codingitforward/cdfdemoday2018/blob/master/GI%20Bill%20School%20Feedback%20Tool.pdf)** — Mariam Mayanja, R Matthews
 
 Mariam worked as a UX/UI Researcher and Designer, and R as a front-end developer working on the GI Bill® School Feedback Tool redesign. If a person has an issue or complaint about a school or training facility that receives GI Bill benefits, they can submit feedback to VA.
 
