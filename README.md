@@ -24,8 +24,6 @@ Rachel championed the Public Transparency page and quality assurance on the Dome
 
 3. **Human-Centered Design Across Agencies** — Sana Shah, Maddison Brusman, Liam Grace-Flood, Michelle Ngo
 
-Due to the sensitivity of the technical research and design projects these fellows worked on, these fellows were unable to share details of their work, but instead they shared the lessons they learned designing within government.
-
 At the HHS Office of Inspector General, Sana worked on multiple design efforts including planning and executing a mini design sprint, helping conceptualize the interaction design for form validation, and a service design project.
 
 Maddison worked on IT acquisitions and procurement, developing and end-to-end platform that encompasses Technology Business Management (TBM) for acquiring technologies and services at the State Department.
@@ -48,8 +46,6 @@ Survey respondents to the Commodity Flow Survey, administered jointly every five
 
 7. **Modernizing Practices with Machine Learning** — Bev Bendix, Surya Dutta, Michal Porubcin, Fatima Koli
 
-Due to the sensitivity of the technical research and machine learning projects these fellows worked on, these fellows were unable to share details of their work, but instead they shared the lessons they learned building machine learning models within government.
-
 Bev and Fatima worked with the Economic Statistical Methods Division at the Census Bureau, using machine learning techniques in text classification to modernize the Economic Census. They trained a model to accurately predict North American Product Classification System (NAPCS) codes for drugstore and grocery products. This is the first step towards potentially allowing businesses to simply submit sales by barcodes (UPCs) and associated product descriptions rather than have to go through the time intensive process of classifying products themselves.
 
 Surya worked on data science initiatives in the Economic Indicators Division to effectively utilize third-party data in surveys. As his primary project, Surya developed a pipeline to parse financial information from public SEC filings, and extract meaning though machine learning techniques for the Quarterly Financial Report (QFR). These automation techniques can save hundreds of thousands of dollars each quarter for each survey, and open exciting possibilities for the future of economic surveys and data collection at the Census Bureau.
@@ -67,8 +63,6 @@ Genesia worked on designing for the Opportunity Project under the Census Open In
 Emily worked on developing the digital presence of the Census Open Innovation Labs. Along with design Fellow Genesia Ting, she built new web pages and provided operational support for The Opportunity Project, which creates private-public partnerships and fosters cross-government collaboration.
 
 10. **Data as a Public Good** — Diana Negron, Austin Hwang, Visakh Madathil, Andrew Chou
-
-Due to the sensitivity of the technical research and data projects these fellows worked on, these fellows were unable to share details of their work, but instead they shared the lessons they learned using data to share information across and outside of government.
 
 At the Health Resources and Services Administration (HRSA), Diana translated essential programs, grant information, and program accomplishments into data visualization and infographics. She combined visual storytelling and data to engage, educate, and inform constituents about HRSA programs all across the country.
 
@@ -89,8 +83,6 @@ At the Centers for Medicare & Medicaid Services (CMS), Maddy designed and protot
 Mariam worked as a UX/UI Researcher and Designer, and R as a front-end developer working on the GI Bill® School Feedback Tool redesign. If a person has an issue or complaint about a school or training facility that receives GI Bill benefits, they can submit feedback to VA.
 
 11. **5 Faces of Civic Tech: Reflecting on a Summer of Innovation** — Omer Bensaadon, Regine De Guzman, Thomas Nguyen, Tai Huynh, Frankie Devanbu
-
-Due to the sensitivity of the technical research and development projects these fellows worked on, these fellows were unable to share details of their work, but instead they shared the lessons they learned innovating within government.
 
 Omer worked on centralizing access to quality data stories across the Bureau. He collaborated with multiple stakeholders to take a project from its infancy, to deployed within the Bureau.
 
