@@ -28,7 +28,7 @@ Due to the sensitivity of the technical research and design projects these fello
 
 At the HHS Office of Inspector General, Sana worked on multiple design efforts including planning and executing a mini design sprint, helping conceptualize the interaction design for form validation, and a service design project.
 
-Maddison worked on IT acquisitions and procurement, developing and end-to-end platform that encompasses TBM for acquiring technologies and services at the State Department.
+Maddison worked on IT acquisitions and procurement, developing and end-to-end platform that encompasses Technology Business Management (TBM) for acquiring technologies and services at the State Department.
 
 Liam made web strategy recommendations to the ITA. This included extensive interviews across ITA's business units and customer segments, inventorying preview assessments, analyzing business processes, and co- creating an actionable roadmap.
 
