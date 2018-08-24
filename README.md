@@ -6,7 +6,7 @@ After a highly successful cohort in 2017, the Civic Digital Fellowship returned 
 This repository features the slides our fellows presented at their end of summer Demo Day, held Thursday August 9, 2018 at the Partnership for Public Service headquarters.
 
 ### Demos and Presentations:
-1. **[Text Analytics for Cusomer Feedback Pipeline](https://github.com/codingitforward/cdfdemoday2018/blob/master/Text%20Analytics%20for%20Cusomer%20Feedback%20Pipeline.pdf)** — Mayuka Sarukkai
+1. **[Text Analytics for Customer Feedback Pipeline](https://github.com/codingitforward/cdfdemoday2018/blob/master/Text%20Analytics%20for%20Cusomer%20Feedback%20Pipeline.pdf)** — Mayuka Sarukkai
 
 Mayuka worked with the Communications Directorate at Census to develop the internal analytics capacity for user feedback collected on Census.gov's 1.7+ million pages. This project provides intranet coordinators and program area stakeholders with a central analytics platform to better understand their users' experiences and systematically inform user-centered improvements to the Census.gov experience. To that end, she led user research with stakeholders across the Bureau, developed machine learning and natural language processing scripts to process open text feedback, and built an interactive Tableau dashboard to visualize feedback analytics.
 
